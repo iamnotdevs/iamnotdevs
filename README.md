@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Berjalan Sesuai Apa Yang Gue Pikirin<br>Lo Gak Suka Yaudah Bodoamat<br>Bersaing? Gue Punya Daya Tarik Sendiri <br><br>Keep Enjoyed Dan Calm bro
+<b>Berjalan Sesuai Apa Yang Gue Pikirin</b><br><b>Lo Gak Suka Yaudah Bodoamat</b><br><b>Bersaing? Gue Punya Daya Tarik Sendiri</b> <br><br><b>Keep Enjoyed Dan Calm bro</b>
 
 
 # 💻 Tech Stack:
