@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Raxxy's here. 👋
 
 # 💫 About Me:
-<b>Gue Berjalan Sesuai Apa Yang Gue Pikirin</b><br><b>Lo Gak Suka Yaudah Bodoamat</b><br><b>Bersaing? Gue Punya Daya Tarik Sendiri</b> <br><br><b>Keep Enjoyed Dan Calm bro</b>
+<b>I'm still a learning, enjoyed fucked for life.</b>
 
 
 # 💻 Tech Stack:
@@ -17,3 +17,8 @@
 [![](https://visitcount.itsvg.in/api?id=iamnotdevs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## My Contact Telegram:
+# @whoisraxxy
+## Support :
+# @suportraxxy
